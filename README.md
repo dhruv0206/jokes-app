@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+# Jokes App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -71,4 +69,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
 # jokes-app
->>>>>>> 8b7628a2e41cd337252c572e3ce331f40dd444b1
