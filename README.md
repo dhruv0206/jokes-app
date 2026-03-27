@@ -1,5 +1,4 @@
 # Jokes App
-[![DevProof Score](http://localhost:3000/api/badge/score/dhruv0206/jokes-app)](http://localhost:3000/score/dhruv0206/jokes-app)
 
 ## Available Scripts
 
