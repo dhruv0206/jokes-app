@@ -1,5 +1,6 @@
 # Jokes App
 
+[![DevProof Score](https://orenda.vision/api/badge/score/dhruv0206/jokes-app)](https://orenda.vision/score/dhruv0206/jokes-app)
 ## Available Scripts
 
 In the project directory, you can run:
